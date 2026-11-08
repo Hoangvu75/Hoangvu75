@@ -32,22 +32,58 @@ I focus on building and operating cloud-native infrastructure, improving deliver
 - 📈 Monitoring, observability, incident response, and root cause analysis
 - ☁️ AWS infrastructure and containerized application operations
 
-## 🏅 Certifications
+## 🏅 Certifications & Achievements
 
 <div align="center">
 
-[![Kubestronaut](https://img.shields.io/badge/CNCF-Kubestronaut-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.cncf.io/training/kubestronaut/)
-[![CNPE](https://img.shields.io/badge/Linux_Foundation-CNPE-003366?style=for-the-badge&logo=linux&logoColor=white)](https://training.linuxfoundation.org/certification/certified-cloud-native-platform-engineer-cnpe/)
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="112" alt="Certified Kubernetes Administrator badge" />
+      <br /><strong>CKA</strong>
+      <br />Certified Kubernetes Administrator
+    </td>
+    <td align="center" width="25%">
+      <img src="https://images.credly.com/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" width="112" alt="Certified Kubernetes Security Specialist badge" />
+      <br /><strong>CKS</strong>
+      <br />Certified Kubernetes Security Specialist
+    </td>
+    <td align="center" width="25%">
+      <img src="https://images.credly.com/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" width="112" alt="Certified Kubernetes Application Developer badge" />
+      <br /><strong>CKAD</strong>
+      <br />Certified Kubernetes Application Developer
+    </td>
+    <td align="center" width="25%">
+      <img src="https://images.credly.com/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png" width="112" alt="Kubernetes and Cloud Native Security Associate badge" />
+      <br /><strong>KCSA</strong>
+      <br />Kubernetes and Cloud Native Security Associate
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://images.credly.com/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" width="112" alt="Kubernetes and Cloud Native Associate badge" />
+      <br /><strong>KCNA</strong>
+      <br />Kubernetes and Cloud Native Associate
+    </td>
+    <td align="center" width="25%">
+      <img src="https://images.credly.com/images/93609502-0c3a-4d80-8570-5548e8116ead/blob" width="112" alt="Certified Cloud Native Platform Engineer badge" />
+      <br /><strong>CNPE</strong>
+      <br />Certified Cloud Native Platform Engineer
+    </td>
+    <td align="center" width="25%">
+      <img src="https://images.credly.com/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png" width="112" alt="CNCF Kubestronaut badge" />
+      <br /><strong>Kubestronaut</strong>
+      <br />CNCF Kubestronaut
+    </td>
+    <td align="center" width="25%">
+      <strong>7 credentials</strong>
+      <br />The Linux Foundation / CNCF
+      <br />2026
+    </td>
+  </tr>
+</table>
 
 </div>
-
-| Certification | Issuer | Year |
-|---|---|---:|
-| **Kubestronaut** — CKA, CKAD, CKS, KCSA, KCNA | The Linux Foundation / CNCF | 2026 |
-| **Certified Cloud Native Platform Engineer (CNPE)** | The Linux Foundation | 2026 |
-| IELTS Academic 6.0 | British Council | 2020 |
-
-*Currently learning toward the Linux Foundation Certified System Administrator (LFCS).*
 
 ## 🛠️ Technical Skills
 
@@ -93,56 +129,10 @@ I focus on building and operating cloud-native infrastructure, improving deliver
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Oracle](https://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-## 💼 Experience
-
-### DevOps Engineer · KAFI Securities Corporation
-*September 2025 – Present*
-
-- Operate and maintain production infrastructure for securities trading systems on on-premises Kubernetes and Docker Swarm.
-- Build and maintain Jenkins CI/CD pipelines and GitOps-based deployment workflows across UAT, STG, and PROD.
-- Helped build an Internal Developer Platform (IDP) to enable self-service deployments for development and operations teams.
-- Support production troubleshooting, incident triage, root cause analysis, and service reliability.
-
-### Software Engineer · Alphalogy Company Limited
-*October 2023 – August 2025*
-
-- Managed AWS services including Amplify, EC2, S3, and Application Load Balancers.
-- Operated Dockerized backend services and maintained self-hosted GitLab and Jenkins CI/CD pipelines.
-- Developed cross-platform mobile applications and integrated Firebase services.
-
-## 🚀 Selected Production Highlights
-
-### Kubernetes Platform & GitOps
-- Operated high-availability Kubernetes clusters of up to **21 nodes and 700+ pods**.
-- Migrated services from Docker Swarm to Kubernetes using Argo CD.
-- Improved CI/CD delivery time by **70%** through pipeline and deployment workflow improvements.
-
-### Streaming & Data Services
-- Supported production PostgreSQL, MongoDB, Redis, and Kafka workloads, including migration, backup, and recovery.
-- Diagnosed and addressed a critical Kafka consumer-lag issue in a trading system by implementing partition rebalancing logic.
-- Reduced consumer lag from **20,000+ messages at peak to below 50 on average**.
-
-### Security & Observability
-- Integrated Trivy and Semgrep into CI/CD for vulnerability scanning.
-- Deployed HashiCorp Vault with Ansible for secrets management.
-- Improved monitoring and troubleshooting with Zabbix and Grafana.
-- Migrated legacy Pentaho ETL workflows from Windows hosts to Kubernetes CronJobs.
-
 ## 🎓 Education
 
 **Bachelor's Degree in Software Engineering**  
 Ho Chi Minh City University of Information Technology (UIT) · 2021–2025
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Hoangvu75&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoangvu75&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=Hoangvu75&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
 
 ---
 
