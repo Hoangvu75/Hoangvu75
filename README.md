@@ -11,9 +11,24 @@
 
 Building reliable, secure, and observable cloud-native platforms.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/huy-hoang-vu-961a83253)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vuhuyhoang230507@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Hoangvu75-181717?style=for-the-badge&logo=github)](https://github.com/Hoangvu75)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://linkedin.com/in/huy-hoang-vu-961a83253">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+      <br />
+      <a href="https://linkedin.com/in/huy-hoang-vu-961a83253">linkedin.com/in/huy-hoang-vu-961a83253</a>
+    </td>
+    <td align="center">
+      <a href="mailto:vuhuyhoang230507@gmail.com">
+        <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      </a>
+      <br />
+      <a href="mailto:vuhuyhoang230507@gmail.com">vuhuyhoang230507@gmail.com</a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -163,6 +178,6 @@ Ho Chi Minh City University of Information Technology (UIT) · 2021–2025
 
 ### Let's connect and build reliable platforms together.
 
-📍 Ho Chi Minh City, Vietnam · [LinkedIn](https://linkedin.com/in/huy-hoang-vu-961a83253) · [Email](mailto:vuhuyhoang230507@gmail.com)
+📍 Ho Chi Minh City, Vietnam
 
 </div>
