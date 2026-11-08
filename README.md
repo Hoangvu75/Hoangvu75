@@ -169,19 +169,19 @@ Click a badge or **View PDF certificate** to open the certificate stored in this
 
 ## 🎓 Education
 
-<table>
-  <tr>
-    <td align="center" width="26%">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Logo_UIT_updated.svg" alt="University of Information Technology (UIT) logo" width="120" />
-    </td>
-    <td width="74%">
-      <strong>Bachelor of Software Engineering</strong><br />
-      University of Information Technology (UIT)<br />
-      Vietnam National University, Ho Chi Minh City<br /><br />
-      <sub>🎓 2021 – 2025</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Logo_UIT_updated.svg" alt="University of Information Technology (UIT) logo" width="135" />
+
+### Bachelor of Software Engineering
+
+**University of Information Technology (UIT)**
+
+Vietnam National University, Ho Chi Minh City
+
+<sub>2021 – 2025</sub>
+
+</div>
 
 ---
 
