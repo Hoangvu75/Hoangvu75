@@ -32,53 +32,60 @@ I focus on building and operating cloud-native infrastructure, improving deliver
 - 📈 Monitoring, observability, incident response, and root cause analysis
 - ☁️ AWS infrastructure and containerized application operations
 
-## 🏅 Certifications & Achievements
+## 🌟 Kubestronaut
 
 <div align="center">
 
-<table>
+<table width="100%" bgcolor="#ffffff">
   <tr>
-    <td align="center" width="25%">
+    <td align="center" bgcolor="#ffffff">
+      <img src="https://images.credly.com/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png" width="170" alt="CNCF Kubestronaut badge" />
+      <h3><font color="#17324d">CNCF Kubestronaut</font></h3>
+      <p><strong><font color="#17324d">The 104th Kubestronaut in Vietnam</font></strong></p>
+      <p><font color="#475569">Recognized by the Cloud Native Computing Foundation</font></p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+## 🏅 Certifications
+
+<div align="center">
+
+<table width="100%" bgcolor="#ffffff">
+  <tr>
+    <td align="center" width="33%" bgcolor="#ffffff">
       <img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="112" alt="Certified Kubernetes Administrator badge" />
-      <br /><strong>CKA</strong>
-      <br />Certified Kubernetes Administrator
+      <br /><strong><font color="#17324d">CKA</font></strong>
+      <br /><font color="#334155">Certified Kubernetes Administrator</font>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="33%" bgcolor="#ffffff">
       <img src="https://images.credly.com/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" width="112" alt="Certified Kubernetes Security Specialist badge" />
-      <br /><strong>CKS</strong>
-      <br />Certified Kubernetes Security Specialist
+      <br /><strong><font color="#17324d">CKS</font></strong>
+      <br /><font color="#334155">Certified Kubernetes Security Specialist</font>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="33%" bgcolor="#ffffff">
       <img src="https://images.credly.com/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" width="112" alt="Certified Kubernetes Application Developer badge" />
-      <br /><strong>CKAD</strong>
-      <br />Certified Kubernetes Application Developer
-    </td>
-    <td align="center" width="25%">
-      <img src="https://images.credly.com/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png" width="112" alt="Kubernetes and Cloud Native Security Associate badge" />
-      <br /><strong>KCSA</strong>
-      <br />Kubernetes and Cloud Native Security Associate
+      <br /><strong><font color="#17324d">CKAD</font></strong>
+      <br /><font color="#334155">Certified Kubernetes Application Developer</font>
     </td>
   </tr>
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="33%" bgcolor="#ffffff">
+      <img src="https://images.credly.com/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png" width="112" alt="Kubernetes and Cloud Native Security Associate badge" />
+      <br /><strong><font color="#17324d">KCSA</font></strong>
+      <br /><font color="#334155">Kubernetes and Cloud Native Security Associate</font>
+    </td>
+    <td align="center" width="33%" bgcolor="#ffffff">
       <img src="https://images.credly.com/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" width="112" alt="Kubernetes and Cloud Native Associate badge" />
-      <br /><strong>KCNA</strong>
-      <br />Kubernetes and Cloud Native Associate
+      <br /><strong><font color="#17324d">KCNA</font></strong>
+      <br /><font color="#334155">Kubernetes and Cloud Native Associate</font>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="33%" bgcolor="#ffffff">
       <img src="https://images.credly.com/images/93609502-0c3a-4d80-8570-5548e8116ead/blob" width="112" alt="Certified Cloud Native Platform Engineer badge" />
-      <br /><strong>CNPE</strong>
-      <br />Certified Cloud Native Platform Engineer
-    </td>
-    <td align="center" width="25%">
-      <img src="https://images.credly.com/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png" width="112" alt="CNCF Kubestronaut badge" />
-      <br /><strong>Kubestronaut</strong>
-      <br />CNCF Kubestronaut
-    </td>
-    <td align="center" width="25%">
-      <strong>7 credentials</strong>
-      <br />The Linux Foundation / CNCF
-      <br />2026
+      <br /><strong><font color="#17324d">CNPE</font></strong>
+      <br /><font color="#334155">Certified Cloud Native Platform Engineer</font>
     </td>
   </tr>
 </table>
