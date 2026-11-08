@@ -169,6 +169,10 @@ Click a badge or **View PDF certificate** to open the certificate stored in this
 
 ## 🎓 Education
 
+<div align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Logo_UIT_updated.svg" alt="University of Information Technology (UIT) logo" width="180" />
+</div>
+
 **Bachelor's Degree in Software Engineering**  
 Ho Chi Minh City University of Information Technology (UIT) · 2021–2025
 
