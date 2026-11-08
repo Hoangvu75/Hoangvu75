@@ -51,11 +51,62 @@ I focus on building and operating cloud-native infrastructure, improving deliver
 
 ## 🏅 Certifications
 
-<div align="center">
+Click any badge or **View certificate** to open its Linux Foundation certificate.
 
-<img src="assets/certifications.svg" alt="Six Cloud Native certifications: CKA, CKS, CKAD, KCSA, KCNA and CNPE" width="100%" />
-
-</div>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://trainingportal.linuxfoundation.org/learn/certificates/certified-kubernetes-administrator-cka?id=38b2ad77-8a50-4fff-8fe7-414e073a4b91" target="_blank" rel="noopener noreferrer">
+        <img src="https://www.cncf.io/wp-content/uploads/2021/09/kubernetes-cka-color.svg" width="120" alt="CKA certification badge" />
+      </a>
+      <br /><strong>CKA</strong>
+      <br />Certified Kubernetes Administrator
+      <br /><sub><a href="https://trainingportal.linuxfoundation.org/learn/certificates/certified-kubernetes-administrator-cka?id=38b2ad77-8a50-4fff-8fe7-414e073a4b91">View certificate ↗</a></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://trainingportal.linuxfoundation.org/learn/certificates/certified-kubernetes-security-specialist-cks?id=9a1cd51f-155f-4b25-a8f6-1a3c2e4c4023" target="_blank" rel="noopener noreferrer">
+        <img src="https://www.cncf.io/wp-content/uploads/2020/11/kubernetes-security-specialist-logo.svg" width="120" alt="CKS certification badge" />
+      </a>
+      <br /><strong>CKS</strong>
+      <br />Certified Kubernetes Security Specialist
+      <br /><sub><a href="https://trainingportal.linuxfoundation.org/learn/certificates/certified-kubernetes-security-specialist-cks?id=9a1cd51f-155f-4b25-a8f6-1a3c2e4c4023">View certificate ↗</a></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://trainingportal.linuxfoundation.org/learn/certificates/certified-kubernetes-application-developer-ckad?id=85cf8b63-a065-45d2-895c-09b6449ecc93" target="_blank" rel="noopener noreferrer">
+        <img src="https://www.cncf.io/wp-content/uploads/2021/09/kubernetes-ckad-color.svg" width="120" alt="CKAD certification badge" />
+      </a>
+      <br /><strong>CKAD</strong>
+      <br />Certified Kubernetes Application Developer
+      <br /><sub><a href="https://trainingportal.linuxfoundation.org/learn/certificates/certified-kubernetes-application-developer-ckad?id=85cf8b63-a065-45d2-895c-09b6449ecc93">View certificate ↗</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://trainingportal.linuxfoundation.org/learn/certificates/kubernetes-and-cloud-native-security-associate-kcsa?id=5bda6882-b8e7-45ba-bb7f-1f44d24ee9c9" target="_blank" rel="noopener noreferrer">
+        <img src="https://www.cncf.io/wp-content/uploads/2024/03/kubernetes-kcsa-color.svg" width="120" alt="KCSA certification badge" />
+      </a>
+      <br /><strong>KCSA</strong>
+      <br />Kubernetes and Cloud Native Security Associate
+      <br /><sub><a href="https://trainingportal.linuxfoundation.org/learn/certificates/kubernetes-and-cloud-native-security-associate-kcsa?id=5bda6882-b8e7-45ba-bb7f-1f44d24ee9c9">View certificate ↗</a></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://trainingportal.linuxfoundation.org/learn/certificates/kubernetes-and-cloud-native-associate-exam-kcna?id=288e5d5a-db06-4f39-9258-6583c687debf" target="_blank" rel="noopener noreferrer">
+        <img src="https://www.cncf.io/wp-content/uploads/2021/09/kcna_color.svg" width="120" alt="KCNA certification badge" />
+      </a>
+      <br /><strong>KCNA</strong>
+      <br />Kubernetes and Cloud Native Associate
+      <br /><sub><a href="https://trainingportal.linuxfoundation.org/learn/certificates/kubernetes-and-cloud-native-associate-exam-kcna?id=288e5d5a-db06-4f39-9258-6583c687debf">View certificate ↗</a></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://trainingportal.linuxfoundation.org/learn/certificates/certified-cloud-native-platform-engineering-engineer-cnpe?id=dae6e405-c419-487f-a65d-4b6cbf93bcd3" target="_blank" rel="noopener noreferrer">
+        <img src="https://www.cncf.io/wp-content/uploads/2026/01/CNPE-Cert-Badge.svg" width="120" alt="CNPE certification badge" />
+      </a>
+      <br /><strong>CNPE</strong>
+      <br />Certified Cloud Native Platform Engineer
+      <br /><sub><a href="https://trainingportal.linuxfoundation.org/learn/certificates/certified-cloud-native-platform-engineering-engineer-cnpe?id=dae6e405-c419-487f-a65d-4b6cbf93bcd3">View certificate ↗</a></sub>
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ Technical Skills
 
