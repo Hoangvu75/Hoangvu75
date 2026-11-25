@@ -121,6 +121,25 @@ Click a badge or **View PDF certificate** to open the certificate stored in this
       <br /><sub><a href="certifications/cnpe.pdf">View PDF certificate ↗</a></sub>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="33%"></td>
+    <td align="center" width="33%">
+      <a href="certifications/ica.pdf">
+        <img src="https://www.cncf.io/wp-content/uploads/2024/03/ica-icon-color.svg" width="120" alt="Istio Certified Associate (ICA) certification badge" />
+      </a>
+      <br /><strong>ICA</strong>
+      <br />Istio Certified Associate
+      <br /><sub><a href="certifications/ica.pdf">View PDF certificate ↗</a></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="certifications/lfcs.pdf">
+        <img src="https://training.linuxfoundation.org/wp-content/uploads/2020/08/LF35_AnniversaryBadge-lfcs-300x300.png" width="120" alt="Linux Foundation Certified System Administrator (LFCS) certification badge" />
+      </a>
+      <br /><strong>LFCS</strong>
+      <br />Linux Foundation Certified System Administrator
+      <br /><sub><a href="certifications/lfcs.pdf">View PDF certificate ↗</a></sub>
+    </td>
+  </tr>
 </table>
 
 ## 🛠️ Technical Skills
